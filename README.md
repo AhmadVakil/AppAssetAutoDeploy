@@ -2,7 +2,7 @@
 
 Automating tedious deployment of Android mobile applications to Google Play Store using Fastlane and Github Actions.
 
-![fatlane-tools](https://github.com/AhmadVakil/AutoDeployAndroidApp/fastlane-tools.png)
+![fastlane-tools](https://github.com/AhmadVakil/AutoDeployAndroidApp/fastlane-tools.png)
 
 ## Installation
 
